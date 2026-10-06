@@ -1,0 +1,13 @@
+faster-whisper
+pyannote.audio
+torch
+torchaudio
+pydub
+librosa
+fastapi
+uvicorn
+pydantic
+langchain
+langchain-community
+faiss-cpu
+python-dotenv
